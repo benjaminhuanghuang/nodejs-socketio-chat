@@ -1,0 +1,17 @@
+{
+    "name": "nodejs-socketio-chat",
+    "version": "1.0.0",
+    "private": true,
+    "main": "server.js",
+    "scripts": {},
+    "dependencies": {
+        "express": "^4.14.0",
+        "socket.io":"*"
+    },
+    "devDependencies": {
+
+    },
+    "description": "Node.js + Angular 4 seed project",
+
+    "author": "benjamin"
+}
